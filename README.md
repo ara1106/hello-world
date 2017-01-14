@@ -1,2 +1,2 @@
-# hewllo-world
+# hello-world
 My first girhub thingy(?)
